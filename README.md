@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bbyhazel
+- 👋 Hi, I’m jezah
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning html and python
 - 💞️ I’m looking to collaborate on you
